@@ -1,0 +1,25 @@
+{
+  "name": "react-hook-fire",
+  "version": "1.0.0",
+  "description": "react hooks collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibraniumsoft/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "collections",
+    "snippets"
+  ],
+  "author": "Suman Saurabh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vibraniumsoft/react-hooks/issues"
+  },
+  "homepage": "https://github.com/vibraniumsoft/react-hooks#readme"
+}
