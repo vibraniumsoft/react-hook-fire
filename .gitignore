@@ -1,4 +1,5 @@
 .DS_Store
+test-local
 
 # these cause more harm than good
 # when working with contributors
