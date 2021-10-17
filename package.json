@@ -1,6 +1,6 @@
 {
   "name": "react-hook-fire",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react hooks collection",
   "main": "./src/index.js",
   "scripts": {
